@@ -1,0 +1,1 @@
+class Menulist2ItemModel { }

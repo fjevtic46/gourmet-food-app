@@ -1,0 +1,72 @@
+name: movie_s_application6
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  get: ^4.6.5
+  connectivity_plus: ^2.3.6
+  shared_preferences: ^2.0.15
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  google_sign_in: ^5.0.7
+  flutter_login_facebook: ^1.6.2
+  flutter_svg_provider: ^1.0.3
+  intl: ^0.17.0
+  permission_handler: ^10.0.0
+  images_picker: ^1.2.11
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Viga
+      fonts: 
+        - asset: assets/fonts/VigaRegular.ttf
+          weight: 400
+    - family: Inter
+      fonts: 
+        - asset: assets/fonts/InterSemiBold.ttf
+          weight: 600
+    - family: BentonSans Medium
+      fonts: 
+        - asset: assets/fonts/BentonSansMedium.ttf
+          weight: 400
+    - family: BentonSans Regular
+      fonts: 
+        - asset: assets/fonts/BentonSansRegular.ttf
+          weight: 400
+    - family: BentonSans Bold
+      fonts: 
+        - asset: assets/fonts/BentonSansBold.ttf
+          weight: 400
+    - family: BentonSans Book
+      fonts: 
+        - asset: assets/fonts/BentonSansBook.ttf
+          weight: 400
+    - family: Rubik
+      fonts: 
+        - asset: assets/fonts/RubikBold.ttf
+          weight: 700
+        - asset: assets/fonts/RubikRegular.ttf
+          weight: 400
+        - asset: assets/fonts/RubikMedium.ttf
+          weight: 400
+    - family: Manrope
+      fonts: 
+        - asset: assets/fonts/ManropeRegular.ttf
+          weight: 400
+    - family: Roboto
+      fonts: 
+        - asset: assets/fonts/RobotoRegular.ttf
+          weight: 400
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500

@@ -1,0 +1,1 @@
+class Listmenuphoto2ItemModel { }
