@@ -1,1 +1,0 @@
-class Listphotoprofile1ItemModel { }
