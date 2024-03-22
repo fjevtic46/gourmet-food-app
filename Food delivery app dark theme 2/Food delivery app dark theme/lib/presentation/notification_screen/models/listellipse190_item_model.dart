@@ -1,1 +1,0 @@
-class Listellipse190ItemModel { }

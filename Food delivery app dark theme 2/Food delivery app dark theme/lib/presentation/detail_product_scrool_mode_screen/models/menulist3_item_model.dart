@@ -1,1 +1,0 @@
-class Menulist3ItemModel { }

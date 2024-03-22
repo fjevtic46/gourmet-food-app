@@ -1,1 +1,0 @@
-class Onboarding2Model { }
